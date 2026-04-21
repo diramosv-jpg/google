@@ -1,0 +1,1 @@
+print("Hola, este es el módulo init.py")
